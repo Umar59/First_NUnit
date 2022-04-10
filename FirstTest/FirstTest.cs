@@ -37,14 +37,14 @@ namespace FirstTest
 
 
         [Test]
-        [TestCase ("TestScanner",           ExpectedResult = "Test Scanner")]
         [TestCase ("MobileScanner",         ExpectedResult = "Mobile Scanner")]
         [TestCase ("TestScannerPref",       ExpectedResult = "Test Scanner Pref")]
         [TestCase ("TestScannerPref123",    ExpectedResult = "Test Scanner Pref 1 2 3")]
         [TestCase ("testScannerPref123",    ExpectedResult = "test Scanner Pref 1 2 3")]
         [TestCase ("testscannerpref",       ExpectedResult = "testscannerpref")]
         [TestCase ("TEST",                  ExpectedResult = "T E S T")]
-        public string ScanRepositoryCheck(string pass)
+        [TestCase ("TestScanner",           ExpectedResult = "Test Scanner")]
+        public string ScanRepositorySplitterTest(string pass)
         {
             //Setup
             Mock<NumCheck.IScanner> scannerMock = new Mock<NumCheck.IScanner>();
