@@ -1,0 +1,13 @@
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.exe
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.deps.json
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.runtimeconfig.json
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.runtimeconfig.dev.json
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.dll
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\bin\Debug\netcoreapp3.1\NumCheck.pdb
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.csprojAssemblyReference.cache
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.csproj.CoreCompileInputs.cache
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.AssemblyInfoInputs.cache
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.AssemblyInfo.cs
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.dll
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.pdb
+C:\Users\24050\source\repos\FirstTestProject\FirstTestProject\obj\Debug\netcoreapp3.1\NumCheck.genruntimeconfig.cache
